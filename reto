@@ -9,6 +9,13 @@ CASO1:
 CASO2:
 
 1-B
+R1- Por la arquitectura actual que he visto en el BCP eligiria trabajarlo con un name counter
+    y por la topologia del cicsplex esto ayudaria a que se pueda compartir de forma dinámica.
 2-C
-3-C
-4-B
+R2- Son los comandos que más sentidos les encuentro, y también por la obtención de información 
+    en parelelo
+3-C 
+R3- Si es asincrono se debe manejar por colas y monitores semaforo con enq, deq y enbusy.
+4-B 
+R4- El programa es lo mis mpara todo, el data división es el Working Storage la logica puede variar
+    de acuerdo a la dara que se maneja por cada transacción.
